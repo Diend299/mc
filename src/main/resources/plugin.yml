@@ -1,0 +1,12 @@
+name: DaifengPlugin
+version: 1.0
+main: com.daifeng.plugin.Main  # 指向你的主类全路径
+api-version: 1.20              # API版本
+
+commands:
+  daifeng:
+    description: 李岱峰的测试命令
+    usage: /daifeng
+  qiandao:
+    description: 签到
+    usage: /qiandao
